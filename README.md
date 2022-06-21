@@ -1,6 +1,7 @@
    ### Olá 👋
 
-- 🔭 Trabalhando atualmente na Code Empresa Jr.
+- 🔭 Trabalhando atualmente como Projetista 
+- na Code Empresa Jr.
 - 🌱 Estudando PHP
 - 📫 Contate-me pelo e-mail: pedroghansel@gmail.com
 <div align="center">
