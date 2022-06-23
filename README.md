@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando atualmente como Projetista 
 - na Code Empresa Jr.
-- 🌱 Estudando PHP
+- 🌱 Estudando JavaScript
 - 📫 Contate-me pelo e-mail: pedroghansel@gmail.com
 <div align="center">
   <a href="https://github.com/Pedro-Grimaldi-Hansel">
