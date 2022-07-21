@@ -4,7 +4,7 @@
    <br>
 </div>
 
-- Trabalhando atualmente como Projetista na Code Empresa Jr.
+- Trabalhando atualmente como projetista e assessor dos departamentos comercial e de projetos na Code Empresa Jr.
 - Estudando JavaScript
 - Contate-me pelo e-mail: pedroghansel@gmail.com
 - Para me conhecer mais acesse meu <a href="https://portifolio-pedro.herokuapp.com/index.php" target="_blank">Portifolio</a>
