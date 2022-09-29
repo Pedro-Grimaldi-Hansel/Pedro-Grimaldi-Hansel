@@ -12,6 +12,42 @@
   <a href="https://github.com/Pedro-Grimaldi-Hansel">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Grimaldi-Hansel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=black"/>
   <img height="155em" width="auto" align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Grimaldi-Hansel&layout=compact&langs_count=7&theme=dracula&title_color=black"/>
+  
+##
+**Skills**
+
+**Programing Languages:**
+<div align="center">
+  <img align="center" alt="Pedro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Pedro-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt='Javascript' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt='PHP' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
+
+**Front End:**
+<div align="center">
+  <img align="center" alt='HTML5' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt='CSS3' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt='Bootstrap' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt='SASS' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt='React' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+**Database:**
+<div align="center">
+  <img alt='MySql' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt='MongoDB' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+**Other:**
+<div align="center">
+  <img alt='Git' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt='Figma' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+  
+  
+  
+  
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pedro-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
