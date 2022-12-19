@@ -4,7 +4,7 @@
    <br>
 </div>
 
-- Currently working as a developer and advisor to the commercial and project departments at Code Empresa Jr.
+- Currently working as a developer and project manager and multiplier advisor at Code Empresa Jr.
 - Studying ReactJs, NextJs and MySQl
 - Contact me by email: pedroghansel@gmail.com
 
