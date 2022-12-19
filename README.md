@@ -7,7 +7,7 @@
 - Currently working as a developer and advisor to the commercial and project departments at Code Empresa Jr.
 - Studying ReactJs and NextJs
 - Contact me by email: pedroghansel@gmail.com
-- To know me more visit my <a href="https://portifolio-pedro.herokuapp.com/index.php" target="_blank">Portfolio</a>
+
 <div align="center">
   <a href="https://github.com/Pedro-Grimaldi-Hansel">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Grimaldi-Hansel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=black"/>
