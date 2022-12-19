@@ -5,7 +5,7 @@
 </div>
 
 - Currently working as a developer and advisor to the commercial and project departments at Code Empresa Jr.
-- Studying ReactJs and NextJs
+- Studying ReactJs, NextJs and MySQl
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
