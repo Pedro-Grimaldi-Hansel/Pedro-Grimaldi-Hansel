@@ -5,7 +5,7 @@
 </div>
 
 - Currently working as a developer and project manager and multiplier advisor at Code Empresa Jr.
-- Studying ReactJs, NextJs and MySQl
+- Studying ReactJs and NextJs
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
