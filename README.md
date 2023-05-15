@@ -5,7 +5,7 @@
 </div>
 
 - Currently working as an intern in software engineering at LEVTY
-- Studying React.JS and french
+- Studying React.JS, JavaScript and french
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
