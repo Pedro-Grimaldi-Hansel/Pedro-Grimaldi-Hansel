@@ -4,8 +4,8 @@
    <br>
 </div>
 
-- Currently working as a developer and project manager and multiplier advisor at Code Empresa Jr.
-- Studying ReactJs and NextJs
+- Currently working as an intern in software engineering at LEVTY.
+- Studying React.JS and French
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
