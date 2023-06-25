@@ -5,7 +5,7 @@
 </div>
 
 - Currently working as an intern in software engineering at LEVTY
-- Studying JavaScript, C++ and french
+- Studying JavaScript and C++
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
