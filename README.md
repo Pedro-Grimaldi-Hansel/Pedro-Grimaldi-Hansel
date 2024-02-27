@@ -4,7 +4,6 @@
    <br>
 </div>
 
-- Currently working as an intern in software engineering at LEVTY
 - Studying JavaScript and C++
 - Contact me by email: pedroghansel@gmail.com
 
