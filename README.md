@@ -33,7 +33,6 @@
                                                                                                                                           
 **Back End:**
 <div align="center">
-  <img align="center" alt='PHP' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Pedro-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
