@@ -4,7 +4,6 @@
    <br>
 </div>
 
-- Studying JavaScript and C++
 - Contact me by email: pedroghansel@gmail.com
 
 <div align="center">
