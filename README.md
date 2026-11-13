@@ -15,7 +15,7 @@
 
 FullStack Web Developer focused on building scalable web applications, management systems, e-commerce platforms, and corporate solutions.
 
-Currently working on software solutions for municipal public management, developing systems that integrate administrative, financial, accounting, and operational processes.
+Currently working on software solutions for public management, developing systems that integrate administrative, financial, accounting, and operational processes.
 
 Computer Science student at Universidade Federal de Juiz de Fora (UFJF), passionate about software engineering, backend development, databases, and data-driven applications.
 
